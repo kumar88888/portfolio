@@ -2,7 +2,7 @@
 
 This is my 2023 portfolio. Here you can download my resume and check out all the relevant information about the projects I've done and the technologies I work with.
 
-https://6485e9c3ff845b23dd978558--cozy-starburst-91700c.netlify.app/
+https://cozy-starburst-91700c.netlify.app/
 
 
 ## Sections
