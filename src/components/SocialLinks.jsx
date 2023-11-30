@@ -38,13 +38,13 @@ const SocialLinks = () => {
       child: (
         <>
           Resume <BsFillPersonLinesFill size={30} />
-        </>
+          </>
       ),
-      href: "/resume.pdf",
+      href: "/kumar.pdf",
       style: "rounded-br-md",
       download: true,
-    },
-  ];
+  },
+];
 
   return (
     <div className="hidden desktop:flex flex-col top-[35%] left-0 fixed z-30">
